@@ -7,10 +7,17 @@ Yönetici ise kesilen bu biletlerin satış detaylarını istenilen bilgilere g�
 basit özellikleri fazla olacak şekilde tasarlamayı hedeflediğimiz bu sistem kaliteli ve güvenilir bir hizmet sunacaktır.
 Sistem içerisinde extra özelliklerde mevcuttur.
 
-# Kullanılacak Yazılım Dili
-## C# 
+![use-case_e-bilet](https://user-images.githubusercontent.com/101656901/235418798-4c1af7ec-15fc-4707-a906-35ee97cb9527.png)
+
+
+# Kullanılan Yazılım Dili
+C# 
 
 # İş Dağılımı
-Veritabanı Yönetimi(ABDULSAMET EGİN)
-Arayüz Tasarımı(ALPER ÖZBİR)
+Veritabanı yönetimi ve arayüz tasarımı(ABDULSAMET EGİN) <br/>
+Formlar arası bağlantı ve kod işlemleri(ALPER ÖZBİR) <br/>
+Veritabanı tabloları oluşturma(BORA YILDIRIM)
+
+
+
 
