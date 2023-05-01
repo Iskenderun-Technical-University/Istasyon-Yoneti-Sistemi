@@ -11,7 +11,7 @@ Sistem içerisinde extra özelliklerde mevcuttur.
 
 
 # Kullanılan Yazılım Dili
-C# 
+### C# 
 
 # İş Dağılımı
 Veritabanı yönetimi ve arayüz tasarımı(ABDULSAMET EGİN) <br/>
