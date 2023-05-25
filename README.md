@@ -19,9 +19,9 @@ Formlar arası bağlantı ve kod işlemleri(ALPER ÖZBİR) <br/>
 Veritabanı tabloları oluşturma(BORA YILDIRIM)
 
 # Proje Takımı
-202503029, Abdulsamet Egin 
-202503003, Alper Özbir
-202503042, Bora Yıldırım
+202503029, Abdulsamet Egin <br/>
+202503003, Alper Özbir <br/>
+202503042, Bora Yıldırım 
 
 
 
