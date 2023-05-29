@@ -14,9 +14,9 @@ Sistem içerisinde extra özelliklerde mevcuttur.
 ### C# 
 
 # İş Dağılımı
-Veritabanı yönetimi ve arayüz tasarımı(ABDULSAMET EGİN) <br/>
-Formlar arası bağlantı ve kod işlemleri(ALPER ÖZBİR) <br/>
-Veritabanı tabloları oluşturma(BORA YILDIRIM)
+Veritabanı yönetimi ve arayüz tasarımı (ABDULSAMET EGİN) <br/>
+Formlar arası bağlantı ve kod işlemleri (ALPER ÖZBİR) <br/>
+Veritabanı tabloları oluşturma (BORA YILDIRIM)
 
 # Proje Takımı
 202503029, Abdulsamet Egin <br/>
