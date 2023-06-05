@@ -10,8 +10,9 @@ Sistem içerisinde extra  özelliklerde mevcuttur.
 ![use-case_e-bilet](https://user-images.githubusercontent.com/101656901/235418798-4c1af7ec-15fc-4707-a906-35ee97cb9527.png)
 
 
-# Kullanılan Yazılım Dili
+# Kullanılan Yazılımlar
 ### C# 
+### SQL
 
 # İş Dağılımı
 Veritabanı yönetimi ve arayüz tasarımı (ABDULSAMET EGİN) <br/>
