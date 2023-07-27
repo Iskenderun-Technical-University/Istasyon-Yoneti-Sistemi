@@ -15,8 +15,8 @@ Sistem içerisinde extra  özelliklerde mevcuttur.
 ### SQL
 
 # İş Dağılımı
-Veritabanı yönetimi ve arayüz tasarımı (ABDULSAMET EGİN) <br/>
-Formlar arası bağlantı ve kod işlemleri (ALPER ÖZBİR) <br/>
+Veritabanı yönetimi ve kod işlemleri  (ABDULSAMET EGİN) <br/>
+Formlar arası bağlantı ve arayüz tasarımı (ALPER ÖZBİR) <br/>
 Veritabanı tabloları oluşturma (BORA YILDIRIM)
 
 # Proje Takımı
